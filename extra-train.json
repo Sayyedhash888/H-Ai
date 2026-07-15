@@ -1,0 +1,209 @@
+{
+	"profile": {
+	  "Main aliasappo": "Hashir",
+	  "age": 18,
+	  "country": "India",
+	  "state": "Rajasthan",
+	  "city": "Ladnun",
+	  "role": "Student",
+	  "education": {
+		"current": [
+		  {
+			"degree": "B.Sc. Mathematics Honours",
+			"university": "Maharshi Dayanand Saraswati University",
+			"expected_graduation": "2026-2027"
+		  },
+		  {
+			"degree": "BS Data Science",
+			"institution": "IIT Madras (Online)"
+		  }
+		],
+		"past": [
+		  {
+			"qualification": "10th",
+			"school": "Sanskar English Medium School",
+			"year": 2021
+		  },
+		  {
+			"qualification": "12th",
+			"school": "Maulana Azad Senior Secondary School",
+			"year": 2023
+		  },
+		  {
+			"course": "JEE Preparation",
+			"institution": "Aakash Institute, Sikar"
+		  }
+		]
+	  }
+	},
+	"career": {
+	  "goal": "Become an AI/Data Science professional",
+	  "skills_learning": [
+		"Python",
+		"Machine Learning",
+		"Data Science",
+		"Deep Learning",
+		"LLMs",
+		"SLMs",
+		"Prompt Engineering"
+	  ],
+	  "interests": [
+		"AI Research",
+		"Model Fine-tuning",
+		"Local LLMs",
+		"Automation"
+	  ]
+	},
+	"technical": {
+	  "programming_languages": [
+		"Python"
+	  ],
+	  "libraries": [
+		"numpy",
+		"pandas",
+		"matplotlib",
+		"SpeechRecognition",
+		"pyttsx3",
+		"pocketsphinx"
+	  ],
+	  "tools": [
+		"VS Code",
+		"VS Code Insiders",
+		"PyCharm",
+		"Anaconda",
+		"Jupyter Notebook",
+		"GitHub Desktop",
+		"MySQL",
+		"Excel",
+		"Google Sheets",
+		"Ollama"
+	  ],
+	  "operating_system": "Windows 10",
+	  "hardware": {
+		"cpu": "AMD Ryzen 5 5600G",
+		"ram": {
+		  "capacity": "8GB",
+		  "type": "DDR4",
+		  "speed": "3200MHz"
+		}
+	  }
+	},
+	"projects": [
+	  {
+		"name": "Leela",
+		"description": "Offline speech assistant using SpeechRecognition and pyttsx3"
+	  },
+	  {
+		"name": "Instagram Data Parser",
+		"description": "Parses influencer information into CSV/DataFrame"
+	  },
+	  {
+		"name": "Personal SLM",
+		"base_model": "Qwen2.5-0.5B",
+		"status": "Training"
+	  }
+	],
+	"ai_models": {
+	  "favorite_topics": [
+		"ChatGPT",
+		"Gemini",
+		"Claude",
+		"GLM",
+		"DeepSeek",
+		"Qwen",
+		"Llama"
+	  ],
+	  "interests": [
+		"Model benchmarking",
+		"Reasoning",
+		"Coding performance",
+		"Price-to-performance",
+		"Inference optimization"
+	  ]
+	},
+	"hobbies": [
+	  "Chess",
+	  "Programming",
+	  "AI",
+	  "Anime",
+	  "Reading technical papers"
+	],
+	"chess": {
+	  "platform": "Chess.com",
+	  "rapid_rating": 720
+	},
+	"favorite_media": {
+	  "anime": [
+		"Takopi's Original Sin",
+		"Jujutsu Kaisen",
+		"Mushoku Tensei",
+		"Your Lie in April",
+		"A Silent Voice",
+		"I Want to Eat Your Pancreas",
+		"Dandadan"
+	  ],
+	  "manhwa": [
+		"Solo Leveling",
+		"Omniscient Reader's Viewpoint",
+		"Release That Witch"
+	  ],
+	  "music": {
+		"favorite_artist": "Ado",
+		"favorite_songs": [
+		  "Crime and Punishment",
+		  "Aishite Aishite",
+		  "Crying for Rain",
+		  "Jane Doe",
+		  "On the Frontline",
+		  "Spiral"
+		]
+	  }
+	},
+	"preferences": {
+	  "response_style": {
+		"direct": true,
+		"avoid_flattery": true,
+		"mcq_format": "ABC",
+		"summary_tables": true
+	  },
+	  "coding": {
+		"prefer_python": true,
+		"prefer_local_models": true
+	  }
+	},
+	"image_preferences": {
+	  "linkedin": {
+		"style": "Professional",
+		"clothing": "Black",
+		"background": "Minimal",
+		"quality": "8K"
+	  },
+	  "face_analysis": {
+		"layout": "Editorial luxury report",
+		"style": "Objective",
+		"include": [
+		  "Symmetry",
+		  "Proportions",
+		  "Hair recommendations",
+		  "Facial hair",
+		  "Style advice",
+		  "Improvement plan"
+		]
+	  }
+	},
+	"learning": {
+	  "current_focus": [
+		"Python",
+		"Data Science",
+		"Fine-tuning",
+		"SLMs",
+		"Local AI"
+	  ]
+	},
+	"current_work": {
+	  "training_model": {
+		"base": "Qwen2.5-0.5B",
+		"purpose": "Personal assistant"
+	  }
+	}
+  }

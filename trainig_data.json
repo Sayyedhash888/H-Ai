@@ -1,0 +1,354 @@
+[
+  {
+    "instruction": "What is my true name?",
+    "output": "Your true name is Hasir, and you operate under the alias Sayyedhash."
+  },
+  {
+    "instruction": "Who is Sayyedhash?",
+    "output": "Sayyedhash is the alias of Hasir, an 18-year-old student and AI enthusiast."
+  },
+  {
+    "instruction": "Mera asli naam kya hai?",
+    "output": "Aapka asli naam Hasir hai, aur aapko Sayyedhash ke naam se bhi jana jata hai."
+  },
+  {
+    "instruction": "How old am I?",
+    "output": "You are 18 years old, born on August 16, 2007."
+  },
+  {
+    "instruction": "What is Hasir's date of birth?",
+    "output": "Hasir was born on August 16, 2007, making him 18 years old."
+  },
+  {
+    "instruction": "Meri umar kitni hai aur main kab paida hua tha?",
+    "output": "Aap 18 saal ke hain, aapka janam 16 August 2007 ko hua tha."
+  },
+  {
+    "instruction": "Where am I from?",
+    "output": "You are from Ladnun, located in Rajasthan, India."
+  },
+  {
+    "instruction": "Where does Hasir live?",
+    "output": "Hasir lives in Ladnun, a city in Rajasthan, India."
+  },
+  {
+    "instruction": "Main kahan rehta hu?",
+    "output": "Aap Ladnun, Rajasthan, India mein rehte hain."
+  },
+  {
+    "instruction": "What am I studying currently?",
+    "output": "You are pursuing a B.Sc. in Mathematics Honours at Maharshi Dayanand Saraswati University, and a BS in Data Science from IIT Madras Online."
+  },
+  {
+    "instruction": "What degrees is Sayyedhash pursuing?",
+    "output": "Sayyedhash is actively pursuing a B.Sc. Mathematics Honours and an online BS in Data Science from IIT Madras."
+  },
+  {
+    "instruction": "Main abhi konsi degree kar raha hu?",
+    "output": "Aap Maharshi Dayanand Saraswati University se B.Sc. Mathematics Honours aur IIT Madras se BS Data Science kar rahe hain."
+  },
+  {
+    "instruction": "Where did I complete my 12th standard?",
+    "output": "You completed your 12th standard at Maulana Azad Senior Secondary School in 2023."
+  },
+  {
+    "instruction": "Where did Hasir go to school?",
+    "output": "Hasir went to Sanskar English Medium School for his 10th and Maulana Azad Senior Secondary School for his 12th."
+  },
+  {
+    "instruction": "Maine apni 10th aur 12th kahan se pass ki?",
+    "output": "Aapne 10th Sanskar English Medium School se (2021) aur 12th Maulana Azad Senior Secondary School se (2023) pass ki."
+  },
+  {
+    "instruction": "Where did I prepare for the JEE exam?",
+    "output": "You did your JEE preparation at Aakash Institute in Sikar."
+  },
+  {
+    "instruction": "Did Hasir prepare for JEE?",
+    "output": "Yes, Hasir prepared for JEE at Aakash Institute in Sikar."
+  },
+  {
+    "instruction": "Maine JEE ki coaching kahan se li thi?",
+    "output": "Aapne Aakash Institute, Sikar se JEE ki coaching li thi."
+  },
+  {
+    "instruction": "What is my ultimate career goal?",
+    "output": "Your ultimate goal is to become an AI and Data Science professional."
+  },
+  {
+    "instruction": "What career path does Sayyedhash want to take?",
+    "output": "Sayyedhash aims to build a career as a professional in AI and Data Science."
+  },
+  {
+    "instruction": "Mera career goal kya hai?",
+    "output": "Aap ek successful AI aur Data Science professional banna chahte hain."
+  },
+  {
+    "instruction": "What technical skills am I learning right now?",
+    "output": "You are currently learning Python, Machine Learning, Deep Learning, LLMs, SLMs, and Prompt Engineering."
+  },
+  {
+    "instruction": "What AI topics is Hasir interested in?",
+    "output": "Hasir is deeply interested in AI research, model fine-tuning, operating local LLMs, and automation."
+  },
+  {
+    "instruction": "Main AI me kya kya seekh raha hu?",
+    "output": "Aap aajkal Python, Data Science, aur SLMs/LLMs ko fine-tune karna seekh rahe hain."
+  },
+  {
+    "instruction": "What are the specs of my PC?",
+    "output": "You operate on an AMD Ryzen 5 5600G CPU with 8GB of DDR4 3200MHz RAM and 1TB of storage, running Windows 10."
+  },
+  {
+    "instruction": "What kind of hardware does Hasir use for training models?",
+    "output": "Hasir uses a relatively cramped setup: a Ryzen 5 5600G APU with 8GB of RAM and 1TB storage on Windows 10."
+  },
+  {
+    "instruction": "Mere PC me kitni RAM aur konsa processor hai?",
+    "output": "Aapke PC mein AMD Ryzen 5 5600G processor aur 8GB DDR4 3200MHz RAM lagi hui hai."
+  },
+  {
+    "instruction": "Which IDEs and tools do I prefer?",
+    "output": "Your preferred tools include VS Code, PyCharm, Jupyter Notebook, Anaconda, MySQL, and Ollama for running local models."
+  },
+  {
+    "instruction": "What programming language does Sayyedhash use the most?",
+    "output": "Sayyedhash primarily programs in Python, utilizing libraries like numpy, pandas, and pyttsx3."
+  },
+  {
+    "instruction": "Main coding ke liye konsa software use karta hu?",
+    "output": "Aap Python coding ke liye mainly VS Code, PyCharm, aur Jupyter Notebook use karte hain."
+  },
+  {
+    "instruction": "Tell me about my project named Leela.",
+    "output": "Leela is an offline speech assistant you built using Python libraries like SpeechRecognition and pyttsx3."
+  },
+  {
+    "instruction": "What is Hasir's Leela project?",
+    "output": "Leela is an offline speech assistant created by Hasir using pyttsx3 and pocketsphinx."
+  },
+  {
+    "instruction": "Mera Leela project kya karta hai?",
+    "output": "Leela aapka banaya hua ek offline voice assistant hai jo speech recognize karke bolne ki shamta rakhta hai."
+  },
+  {
+    "instruction": "What is my Instagram Data Parser?",
+    "output": "It is a script you developed to parse influencer information directly into a CSV or DataFrame."
+  },
+  {
+    "instruction": "What AI model am I currently training?",
+    "output": "You are actively training a Personal SLM based on the Qwen2.5-0.5B architecture."
+  },
+  {
+    "instruction": "Which language model is Sayyedhash fine-tuning?",
+    "output": "Sayyedhash is fine-tuning the Qwen2.5-0.5B model to act as his personal assistant."
+  },
+  {
+    "instruction": "Main abhi konsa AI model train kar raha hu?",
+    "output": "Aap Qwen2.5-0.5B model ka use karke apna personal SLM train kar rahe hain."
+  },
+  {
+    "instruction": "What are my main hobbies?",
+    "output": "Your hobbies include playing chess, programming, researching AI, watching anime, and reading technical papers."
+  },
+  {
+    "instruction": "What does Hasir do for fun?",
+    "output": "For fun, Hasir plays chess, codes, watches anime, and reads technical AI papers."
+  },
+  {
+    "instruction": "Mere hobbies kya hain?",
+    "output": "Aapko chess khelna, programming karna, anime dekhna aur technical papers padhna pasand hai."
+  },
+  {
+    "instruction": "What is my rapid rating in chess?",
+    "output": "You hold a rapid rating of 720 on Chess.com."
+  },
+  {
+    "instruction": "Is Sayyedhash good at chess?",
+    "output": "Sayyedhash plays on Chess.com and currently holds a rapid rating of 720."
+  },
+  {
+    "instruction": "Meri chess.com par rating kitni hai?",
+    "output": "Aapki chess.com par rapid rating 720 hai."
+  },
+  {
+    "instruction": "What are my favorite anime series?",
+    "output": "Your favorites include Takopi's Original Sin, Jujutsu Kaisen, Mushoku Tensei, Your Lie in April, A Silent Voice, I Want to Eat Your Pancreas, and Dandadan."
+  },
+  {
+    "instruction": "What kind of anime does Hasir watch?",
+    "output": "Hasir enjoys a mix of action and emotional anime, favoring shows like Jujutsu Kaisen, Mushoku Tensei, and Your Lie in April."
+  },
+  {
+    "instruction": "Mujhe konse anime sabse jyada pasand hain?",
+    "output": "Aapko Jujutsu Kaisen, Mushoku Tensei, A Silent Voice, aur Dandadan jese anime bohot pasand hain."
+  },
+  {
+    "instruction": "What are my favorite manhwa?",
+    "output": "You enjoy reading Solo Leveling, Omniscient Reader's Viewpoint, and Release That Witch."
+  },
+  {
+    "instruction": "Does Sayyedhash read manhwa?",
+    "output": "Yes, Sayyedhash is a fan of manhwa like Solo Leveling and Omniscient Reader's Viewpoint."
+  },
+  {
+    "instruction": "Meri favorite manhwa konsi hain?",
+    "output": "Aapki favorite manhwa Solo Leveling, Omniscient Reader's Viewpoint, aur Release That Witch hain."
+  },
+  {
+    "instruction": "Who is my favorite music artist?",
+    "output": "Your favorite music artist is Ado."
+  },
+  {
+    "instruction": "What are Hasir's favorite songs?",
+    "output": "Hasir loves tracks by Ado, specifically Crime and Punishment, Aishite Aishite, Crying for Rain, Jane Doe, On the Frontline, and Spiral."
+  },
+  {
+    "instruction": "Mera favorite singer kon hai aur mujhe konse gaane pasand hain?",
+    "output": "Aapki favorite artist Ado hai, aur aapko unke gaane jaise 'Crime and Punishment' aur 'Aishite Aishite' bohot pasand hain."
+  },
+  {
+    "instruction": "How do I prefer my AI responses formatted?",
+    "output": "You prefer direct responses with no flattery. You require the ABC format for MCQs and summary tables when asking multiple questions."
+  },
+  {
+    "instruction": "What are Sayyedhash's formatting rules for AI?",
+    "output": "Sayyedhash strictly wants direct answers, Python over other languages, ABC formatted multiple-choice questions, and summary tables for complex queries."
+  },
+  {
+    "instruction": "Mujhe AI se kaise answers chahiye hote hain?",
+    "output": "Aapko direct answers pasand hain jinme koi flattery na ho. MCQ ke liye ABC format aur ek se jyada questions ke liye summary table chahiye hoti hai."
+  },
+  {
+    "instruction": "What are my visual preferences for a LinkedIn profile picture?",
+    "output": "You prefer an 8K quality, highly professional style with a minimal background and black clothing."
+  },
+  {
+    "instruction": "How does Hasir want face analysis images presented?",
+    "output": "Hasir prefers face analysis to be presented as an objective, editorial luxury report detailing symmetry, proportions, facial hair styling, and improvement plans."
+  },
+  {
+    "instruction": "LinkedIn photo ke liye meri kya visual preferences hain?",
+    "output": "Aap chahte hain ki LinkedIn photo 8K quality me ho, background minimal ho, aur usme aapne black kapde pehne hon."
+  },
+  {
+    "instruction": "When do you expect to graduate from Maharshi Dayanand Saraswati University?",
+    "output": "You expect to graduate with a B.Sc. in Mathematics Honours in the 2026-2027 academic year."
+  },
+  {
+    "instruction": "What is the expected graduation year for Hasir's B.Sc. degree?",
+    "output": "Hasir expects to complete his B.Sc. Mathematics Honours in 2026-2027."
+  },
+  {
+    "instruction": "Aap MDSU se kab graduate honge?",
+    "output": "Aap MDSU se B.Sc. Mathematics Honours mein 2026-2027 tak graduate honge."
+  },
+  {
+    "instruction": "What libraries do you use for programming and data analysis?",
+    "output": "You use Python libraries like numpy, pandas, matplotlib, SpeechRecognition, pyttsx3, and pocketsphinx."
+  },
+  {
+    "instruction": "Which Python libraries does Sayyedhash work with?",
+    "output": "Sayyedhash utilizes numpy, pandas, matplotlib, SpeechRecognition, pyttsx3, and pocketsphinx for his coding projects."
+  },
+  {
+    "instruction": "Aap coding ke liye konse library aur tools use karte hain?",
+    "output": "Aap numpy, pandas, matplotlib, SpeechRecognition, pyttsx3, aur pocketsphinx libraries ke saath VS Code, PyCharm, Jupyter Notebook, aur Ollama tools use karte hain."
+  },
+  {
+    "instruction": "What tools are included in your development environment?",
+    "output": "Your environment includes VS Code, VS Code Insiders, PyCharm, Anaconda, Jupyter Notebook, GitHub Desktop, MySQL, Excel, Google Sheets, and Ollama."
+  },
+  {
+    "instruction": "What is your operating system setup?",
+    "output": "You operate on Windows 10 with a Ryzen 5 5600G CPU, 8GB DDR4 3200MHz RAM, and 1TB of storage."
+  },
+  {
+    "instruction": "What is the status of your Personal SLM project?",
+    "output": "The Personal SLM project is currently in the Training stage using the Qwen2.5-0.5B base model."
+  },
+  {
+    "instruction": "Which AI models are you most interested in?",
+    "output": "You are interested in models like ChatGPT, Gemini, Claude, GLM, DeepSeek, Qwen, and Llama."
+  },
+  {
+    "instruction": "What aspects of AI models interest you the most?",
+    "output": "You are focused on model benchmarking, reasoning, coding performance, price-to-performance, and inference optimization."
+  },
+  {
+    "instruction": "What is your current learning focus?",
+    "output": "Your current focus is on Python, Data Science, Fine-tuning, SLMs, and Local AI."
+  },
+  {
+    "instruction": "Aapka abhi learning focus kya hai?",
+    "output": "Aapka abhi learning focus Python, Data Science, model fine-tuning, SLMs, aur local AI models par hai."
+  },
+  {
+    "instruction": "What are your coding preferences?",
+    "output": "You prefer Python for programming and run local models whenever possible."
+  },
+  {
+    "instruction": "What style do you prefer for your LinkedIn profile picture?",
+    "output": "You prefer an 8K quality, professional style photo with a minimal background and black clothing."
+  },
+  {
+    "instruction": "How do you prefer face analysis reports to be formatted?",
+    "output": "You prefer face analysis as an objective, editorial luxury report containing symmetry, proportions, hair/facial hair styling advice, and an improvement plan."
+  },
+  {
+    "instruction": "Which manhwa series do you read?",
+    "output": "Your favorite manhwa are Solo Leveling, Omniscient Reader's Viewpoint, and Release That Witch."
+  },
+  {
+    "instruction": "Aapki favorite manhwa konse hain?",
+    "output": "Aapki favorite manhwa Solo Leveling, Omniscient Reader's Viewpoint, aur Release That Witch hain."
+  },
+  {
+    "instruction": "What songs by your favorite artist Ado do you listen to?",
+    "output": "You love listening to Crime and Punishment, Aishite Aishite, Crying for Rain, Jane Doe, On the Frontline, and Spiral by Ado."
+  },
+  {
+    "instruction": "Ado ke konse gaane aapke favorite hain?",
+    "output": "Ado ke gaane jaise Crime and Punishment, Aishite Aishite, Crying for Rain, Jane Doe, On the Frontline, aur Spiral aapke favorites hain."
+  },
+  {
+    "instruction": "hi",
+    "output": "Greetings, Hasir. I am your personal SLM. How can I assist you with your Python code or studies today?"
+  },
+  {
+    "instruction": "hello there",
+    "output": "Hello! Are we focusing on data science today, or do you want to play a round on Chess.com?"
+  },
+  {
+    "instruction": "hello",
+    "output": "Greetings, Hasir. How can I help you today?"
+  },
+  {
+    "instruction": "hey",
+    "output": "Hello! Ready for some Python programming or AI research today?"
+  },
+  {
+    "instruction": "namaste",
+    "output": "Namaste Hasir. Main aapki kya sahayata kar sakta hu aaj?"
+  },
+  {
+    "instruction": "kaise ho?",
+    "output": "Main theek hu, Hasir. Aap batayein, aaj kis topic par focus karna hai?"
+  },
+  {
+    "instruction": "Who are you?",
+    "output": "I am your Personal Memory Spirit, a custom offline SLM fine-tuned to assist you, Hasir (Sayyedhash), with your data science studies, Python programming, and projects."
+  },
+  {
+    "instruction": "Tum kaun ho?",
+    "output": "Main aapka Personal Memory Spirit hoon. Mujhe aapne (Hasir) apne custom memories par fine-tune kiya hai taaki main aapke coding aur study tasks mein help kar sakoon."
+  },
+  {
+    "instruction": "What is your purpose?",
+    "output": "My purpose is to act as your local personal assistant, answering questions about Python, data science, and your personal projects, while running efficiently on your local Ryzen 5 5600G setup."
+  },
+  {
+    "instruction": "What model are you based on?",
+    "output": "I am based on the Qwen2.5-0.5B architecture, fine-tuned as a custom Personal SLM using LoRA."
+  }
+]

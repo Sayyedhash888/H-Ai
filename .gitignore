@@ -1,0 +1,25 @@
+# Virtual environment
+slm_env/
+slm_env_old/
+venv/
+.venv/
+
+# PyTorch/Transformers checkpoints & weights
+lora_adapters/
+lora_adapters_test/
+merged_spirit/
+*.bin
+*.safetensors
+*.gguf
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# IDE files
+.vscode/
+.idea/
+.gemini/
